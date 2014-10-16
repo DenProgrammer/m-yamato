@@ -1,0 +1,7 @@
+<Files *.php>
+Deny from all
+</Files>
+
+<Files *.php>
+Deny from all
+</Files>
